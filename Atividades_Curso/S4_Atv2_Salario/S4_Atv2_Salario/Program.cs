@@ -24,7 +24,7 @@ namespace S4_Atv2_Salario
 
             double mediaSalario = (f2.Salario + f1.Salario)/2;
 
-            Console.WriteLine($"A Media Salario dos 2 salarios é {mediaSalario.ToString("F2")}");
+            Console.WriteLine($"A Media Salarial dos 2 salarios é {mediaSalario.ToString("F2")}");
         }
     }
 }
