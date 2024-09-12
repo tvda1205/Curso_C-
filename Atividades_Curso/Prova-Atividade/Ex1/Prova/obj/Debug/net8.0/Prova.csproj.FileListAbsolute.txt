@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\bin\Debug\net8.0\Prova.exe
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\bin\Debug\net8.0\Prova.deps.json
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\bin\Debug\net8.0\Prova.runtimeconfig.json
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\bin\Debug\net8.0\Prova.dll
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\bin\Debug\net8.0\Prova.pdb
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.AssemblyInfo.cs
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.dll
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\refint\Prova.dll
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.pdb
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\Prova.genruntimeconfig.cache
+D:\Users\Thiago Araújo\source\repos\Prova\Prova\obj\Debug\net8.0\ref\Prova.dll

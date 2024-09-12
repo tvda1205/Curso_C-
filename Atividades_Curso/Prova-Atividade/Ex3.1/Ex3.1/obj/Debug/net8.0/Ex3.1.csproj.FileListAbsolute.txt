@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\bin\Debug\net8.0\Ex3.1.exe
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\bin\Debug\net8.0\Ex3.1.deps.json
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\bin\Debug\net8.0\Ex3.1.runtimeconfig.json
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\bin\Debug\net8.0\Ex3.1.dll
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\bin\Debug\net8.0\Ex3.1.pdb
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.AssemblyInfo.cs
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.dll
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\refint\Ex3.1.dll
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.pdb
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\Ex3.1.genruntimeconfig.cache
+D:\Users\Thiago Araújo\source\repos\Prova-Atividade\Ex3.1\Ex3.1\obj\Debug\net8.0\ref\Ex3.1.dll

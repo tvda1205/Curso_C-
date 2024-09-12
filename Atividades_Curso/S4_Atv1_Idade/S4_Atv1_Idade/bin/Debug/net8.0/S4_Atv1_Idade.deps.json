@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "S4_Atv1_Idade/1.0.0": {
+        "runtime": {
+          "S4_Atv1_Idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S4_Atv1_Idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

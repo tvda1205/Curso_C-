@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\bin\Debug\net8.0\S4_Ex2_Produtos.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\bin\Debug\net8.0\S4_Ex2_Produtos.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\bin\Debug\net8.0\S4_Ex2_Produtos.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\bin\Debug\net8.0\S4_Ex2_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\bin\Debug\net8.0\S4_Ex2_Produtos.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\refint\S4_Ex2_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\S4_Ex2_Produtos.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_Ex2_Produtos\S4_Ex2_Produtos\obj\Debug\net8.0\ref\S4_Ex2_Produtos.dll

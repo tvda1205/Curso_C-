@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Encapsulamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{759BFE85-6744-48AC-B689-E4130F2C9423}|Encapsulamento\\Encapsulamento.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\encapsulamento\\encapsulamento\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759BFE85-6744-48AC-B689-E4130F2C9423}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{759BFE85-6744-48AC-B689-E4130F2C9423}|Encapsulamento\\Encapsulamento.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\encapsulamento\\encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{759BFE85-6744-48AC-B689-E4130F2C9423}|Encapsulamento\\Encapsulamento.csproj|solutionrelative:encapsulamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Encapsulamento\\Encapsulamento\\Produtos.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Produtos.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Encapsulamento\\Encapsulamento\\Produtos.cs",
+              "RelativeToolTip": "Encapsulamento\\Produtos.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAcwBIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:17:03.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulamento\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Encapsulamento\\Encapsulamento\\Program.cs",
+              "RelativeToolTip": "Encapsulamento\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T20:16:46.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

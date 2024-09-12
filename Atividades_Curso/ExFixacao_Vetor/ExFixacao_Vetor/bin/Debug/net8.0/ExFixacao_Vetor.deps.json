@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ExFixacao_Vetor/1.0.0": {
+        "runtime": {
+          "ExFixacao_Vetor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExFixacao_Vetor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

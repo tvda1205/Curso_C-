@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\bin\Debug\net8.0\Ex1_Static.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\bin\Debug\net8.0\Ex1_Static.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\bin\Debug\net8.0\Ex1_Static.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\bin\Debug\net8.0\Ex1_Static.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\bin\Debug\net8.0\Ex1_Static.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\refint\Ex1_Static.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\Ex1_Static.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_Static\Ex1_Static\obj\Debug\net8.0\ref\Ex1_Static.dll

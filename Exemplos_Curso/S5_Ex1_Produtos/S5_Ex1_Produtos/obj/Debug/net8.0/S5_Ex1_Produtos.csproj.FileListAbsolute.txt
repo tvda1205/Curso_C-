@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\bin\Debug\net8.0\S5_Ex1_Produtos.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\bin\Debug\net8.0\S5_Ex1_Produtos.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\bin\Debug\net8.0\S5_Ex1_Produtos.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\bin\Debug\net8.0\S5_Ex1_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\bin\Debug\net8.0\S5_Ex1_Produtos.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\refint\S5_Ex1_Produtos.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\S5_Ex1_Produtos.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S5_Ex1_Produtos\S5_Ex1_Produtos\obj\Debug\net8.0\ref\S5_Ex1_Produtos.dll

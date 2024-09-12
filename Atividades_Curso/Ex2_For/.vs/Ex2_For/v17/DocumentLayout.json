@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Ex2_For\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E711E3DE-ABA3-458C-BCFE-A4D4AC5D76AF}|Ex2_For\\Ex2_For.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\ex2_for\\ex2_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E711E3DE-ABA3-458C-BCFE-A4D4AC5D76AF}|Ex2_For\\Ex2_For.csproj|solutionrelative:ex2_for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Ex2_For\\Ex2_For\\Program.cs",
+              "RelativeDocumentMoniker": "Ex2_For\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Ex2_For\\Ex2_For\\Program.cs",
+              "RelativeToolTip": "Ex2_For\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:46:12.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

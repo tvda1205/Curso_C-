@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\bin\Debug\net8.0\Encapsulamento.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\refint\Encapsulamento.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\Encapsulamento.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Encapsulamento\Encapsulamento\obj\Debug\net8.0\ref\Encapsulamento.dll

@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\bin\Debug\net8.0\S4_ExTriangulo_SemPOO.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\bin\Debug\net8.0\S4_ExTriangulo_SemPOO.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\bin\Debug\net8.0\S4_ExTriangulo_SemPOO.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\bin\Debug\net8.0\S4_ExTriangulo_SemPOO.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\bin\Debug\net8.0\S4_ExTriangulo_SemPOO.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\refint\S4_ExTriangulo_SemPOO.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\S4_ExTriangulo_SemPOO.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\S4_ExTriangulo_SemPOO\S4_ExTriangulo_SemPOO\obj\Debug\net8.0\ref\S4_ExTriangulo_SemPOO.dll

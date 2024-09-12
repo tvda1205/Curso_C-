@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\bin\Debug\net8.0\ExCondicao1.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\bin\Debug\net8.0\ExCondicao1.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\bin\Debug\net8.0\ExCondicao1.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\bin\Debug\net8.0\ExCondicao1.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\bin\Debug\net8.0\ExCondicao1.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\refint\ExCondicao1.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ExCondicao1.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExCondicao1\ExCondicao1\obj\Debug\net8.0\ref\ExCondicao1.dll

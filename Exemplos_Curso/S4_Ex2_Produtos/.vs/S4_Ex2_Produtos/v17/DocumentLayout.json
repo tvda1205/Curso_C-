@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\S4_Ex2_Produtos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4704203A-AD30-478A-B427-CE3710FB44EA}|S4_Ex2_Produtos\\S4_Ex2_Produtos.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\s4_ex2_produtos\\s4_ex2_produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704203A-AD30-478A-B427-CE3710FB44EA}|S4_Ex2_Produtos\\S4_Ex2_Produtos.csproj|solutionrelative:s4_ex2_produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4704203A-AD30-478A-B427-CE3710FB44EA}|S4_Ex2_Produtos\\S4_Ex2_Produtos.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\s4_ex2_produtos\\s4_ex2_produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4704203A-AD30-478A-B427-CE3710FB44EA}|S4_Ex2_Produtos\\S4_Ex2_Produtos.csproj|solutionrelative:s4_ex2_produtos\\produtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Produtos.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\S4_Ex2_Produtos\\S4_Ex2_Produtos\\Produtos.cs",
+              "RelativeDocumentMoniker": "S4_Ex2_Produtos\\Produtos.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\S4_Ex2_Produtos\\S4_Ex2_Produtos\\Produtos.cs",
+              "RelativeToolTip": "S4_Ex2_Produtos\\Produtos.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:35:09.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\S4_Ex2_Produtos\\S4_Ex2_Produtos\\Program.cs",
+              "RelativeDocumentMoniker": "S4_Ex2_Produtos\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\S4_Ex2_Produtos\\S4_Ex2_Produtos\\Program.cs",
+              "RelativeToolTip": "S4_Ex2_Produtos\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T20:21:07.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

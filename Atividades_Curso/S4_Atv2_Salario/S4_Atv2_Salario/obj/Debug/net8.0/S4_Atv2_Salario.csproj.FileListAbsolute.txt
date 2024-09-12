@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\bin\Debug\net8.0\S4_Atv2_Salario.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\bin\Debug\net8.0\S4_Atv2_Salario.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\bin\Debug\net8.0\S4_Atv2_Salario.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\bin\Debug\net8.0\S4_Atv2_Salario.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\bin\Debug\net8.0\S4_Atv2_Salario.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\refint\S4_Atv2_Salario.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\S4_Atv2_Salario.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv2_Salario\S4_Atv2_Salario\obj\Debug\net8.0\ref\S4_Atv2_Salario.dll

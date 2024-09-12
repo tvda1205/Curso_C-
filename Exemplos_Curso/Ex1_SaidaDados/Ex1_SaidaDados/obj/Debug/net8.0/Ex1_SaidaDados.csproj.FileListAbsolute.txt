@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\bin\Debug\net8.0\Ex1_SaidaDados.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\bin\Debug\net8.0\Ex1_SaidaDados.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\bin\Debug\net8.0\Ex1_SaidaDados.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\bin\Debug\net8.0\Ex1_SaidaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\bin\Debug\net8.0\Ex1_SaidaDados.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\refint\Ex1_SaidaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\Ex1_SaidaDados.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_SaidaDados\Ex1_SaidaDados\obj\Debug\net8.0\ref\Ex1_SaidaDados.dll

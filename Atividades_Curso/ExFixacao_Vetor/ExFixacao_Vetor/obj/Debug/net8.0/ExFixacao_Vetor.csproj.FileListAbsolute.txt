@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\bin\Debug\net8.0\ExFixacao_Vetor.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\bin\Debug\net8.0\ExFixacao_Vetor.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\bin\Debug\net8.0\ExFixacao_Vetor.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\bin\Debug\net8.0\ExFixacao_Vetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\bin\Debug\net8.0\ExFixacao_Vetor.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\refint\ExFixacao_Vetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ExFixacao_Vetor.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExFixacao_Vetor\ExFixacao_Vetor\obj\Debug\net8.0\ref\ExFixacao_Vetor.dll

@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\bin\Debug\net8.0\ExS5_Banco.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\bin\Debug\net8.0\ExS5_Banco.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\bin\Debug\net8.0\ExS5_Banco.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\bin\Debug\net8.0\ExS5_Banco.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\bin\Debug\net8.0\ExS5_Banco.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\refint\ExS5_Banco.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ExS5_Banco.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\ExS5_Banco\ExS5_Banco\obj\Debug\net8.0\ref\ExS5_Banco.dll

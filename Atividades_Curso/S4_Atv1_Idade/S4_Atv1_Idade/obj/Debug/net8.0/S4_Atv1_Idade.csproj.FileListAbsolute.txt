@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\bin\Debug\net8.0\S4_Atv1_Idade.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\bin\Debug\net8.0\S4_Atv1_Idade.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\bin\Debug\net8.0\S4_Atv1_Idade.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\bin\Debug\net8.0\S4_Atv1_Idade.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\bin\Debug\net8.0\S4_Atv1_Idade.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\refint\S4_Atv1_Idade.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\S4_Atv1_Idade.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\S4_Atv1_Idade\S4_Atv1_Idade\obj\Debug\net8.0\ref\S4_Atv1_Idade.dll

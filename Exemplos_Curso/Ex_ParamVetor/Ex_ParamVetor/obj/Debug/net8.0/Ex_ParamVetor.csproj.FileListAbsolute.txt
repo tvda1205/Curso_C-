@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\bin\Debug\net8.0\Ex_ParamVetor.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\bin\Debug\net8.0\Ex_ParamVetor.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\bin\Debug\net8.0\Ex_ParamVetor.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\bin\Debug\net8.0\Ex_ParamVetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\bin\Debug\net8.0\Ex_ParamVetor.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\refint\Ex_ParamVetor.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\Ex_ParamVetor.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_ParamVetor\Ex_ParamVetor\obj\Debug\net8.0\ref\Ex_ParamVetor.dll

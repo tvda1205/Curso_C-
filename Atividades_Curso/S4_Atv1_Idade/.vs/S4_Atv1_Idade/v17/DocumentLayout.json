@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\S4_Atv1_Idade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA269BE-9D80-4879-93C4-8A60E794A539}|S4_Atv1_Idade\\S4_Atv1_Idade.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\s4_atv1_idade\\s4_atv1_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA269BE-9D80-4879-93C4-8A60E794A539}|S4_Atv1_Idade\\S4_Atv1_Idade.csproj|solutionrelative:s4_atv1_idade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA269BE-9D80-4879-93C4-8A60E794A539}|S4_Atv1_Idade\\S4_Atv1_Idade.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\s4_atv1_idade\\s4_atv1_idade\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA269BE-9D80-4879-93C4-8A60E794A539}|S4_Atv1_Idade\\S4_Atv1_Idade.csproj|solutionrelative:s4_atv1_idade\\pessoas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoas.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\S4_Atv1_Idade\\S4_Atv1_Idade\\Pessoas.cs",
+              "RelativeDocumentMoniker": "S4_Atv1_Idade\\Pessoas.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\S4_Atv1_Idade\\S4_Atv1_Idade\\Pessoas.cs",
+              "RelativeToolTip": "S4_Atv1_Idade\\Pessoas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:19:47.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\S4_Atv1_Idade\\S4_Atv1_Idade\\Program.cs",
+              "RelativeDocumentMoniker": "S4_Atv1_Idade\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\S4_Atv1_Idade\\S4_Atv1_Idade\\Program.cs",
+              "RelativeToolTip": "S4_Atv1_Idade\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T21:19:17.84Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

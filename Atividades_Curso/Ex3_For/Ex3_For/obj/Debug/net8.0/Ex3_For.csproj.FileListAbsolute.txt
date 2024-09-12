@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\bin\Debug\net8.0\Ex3_For.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\bin\Debug\net8.0\Ex3_For.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\bin\Debug\net8.0\Ex3_For.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\bin\Debug\net8.0\Ex3_For.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\bin\Debug\net8.0\Ex3_For.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\refint\Ex3_For.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\Ex3_For.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Ex3_For\Ex3_For\obj\Debug\net8.0\ref\Ex3_For.dll

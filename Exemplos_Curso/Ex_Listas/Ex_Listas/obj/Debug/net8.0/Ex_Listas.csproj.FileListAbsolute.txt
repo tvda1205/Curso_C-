@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\bin\Debug\net8.0\Ex_Listas.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\bin\Debug\net8.0\Ex_Listas.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\bin\Debug\net8.0\Ex_Listas.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\bin\Debug\net8.0\Ex_Listas.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\bin\Debug\net8.0\Ex_Listas.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\refint\Ex_Listas.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\Ex_Listas.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Listas\Ex_Listas\obj\Debug\net8.0\ref\Ex_Listas.dll

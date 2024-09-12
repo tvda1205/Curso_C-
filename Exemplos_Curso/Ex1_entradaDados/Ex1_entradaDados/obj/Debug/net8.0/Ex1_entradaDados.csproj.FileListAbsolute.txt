@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\bin\Debug\net8.0\Ex1_entradaDados.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\bin\Debug\net8.0\Ex1_entradaDados.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\bin\Debug\net8.0\Ex1_entradaDados.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\bin\Debug\net8.0\Ex1_entradaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\bin\Debug\net8.0\Ex1_entradaDados.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\refint\Ex1_entradaDados.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\Ex1_entradaDados.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex1_entradaDados\Ex1_entradaDados\obj\Debug\net8.0\ref\Ex1_entradaDados.dll

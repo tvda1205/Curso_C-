@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Conversor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAC85D1-1BC6-4A44-88E1-3D26D9B49471}|Conversor\\Conversor.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\conversor\\conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAC85D1-1BC6-4A44-88E1-3D26D9B49471}|Conversor\\Conversor.csproj|solutionrelative:conversor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EAC85D1-1BC6-4A44-88E1-3D26D9B49471}|Conversor\\Conversor.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\conversor\\conversor\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EAC85D1-1BC6-4A44-88E1-3D26D9B49471}|Conversor\\Conversor.csproj|solutionrelative:conversor\\conversormoeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConversorMoeda.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Conversor\\Conversor\\ConversorMoeda.cs",
+              "RelativeDocumentMoniker": "Conversor\\ConversorMoeda.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Conversor\\Conversor\\ConversorMoeda.cs",
+              "RelativeToolTip": "Conversor\\ConversorMoeda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:37:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Conversor\\Conversor\\Program.cs",
+              "RelativeDocumentMoniker": "Conversor\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Conversor\\Conversor\\Program.cs",
+              "RelativeToolTip": "Conversor\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T20:20:22.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

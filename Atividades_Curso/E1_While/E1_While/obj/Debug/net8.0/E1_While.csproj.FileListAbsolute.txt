@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\bin\Debug\net8.0\E1_While.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\bin\Debug\net8.0\E1_While.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\bin\Debug\net8.0\E1_While.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\bin\Debug\net8.0\E1_While.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\bin\Debug\net8.0\E1_While.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\refint\E1_While.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\E1_While.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\E1_While\E1_While\obj\Debug\net8.0\ref\E1_While.dll

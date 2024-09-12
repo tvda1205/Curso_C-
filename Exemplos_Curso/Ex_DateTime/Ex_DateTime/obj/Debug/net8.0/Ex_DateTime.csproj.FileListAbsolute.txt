@@ -1,0 +1,14 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\bin\Debug\net8.0\Ex_DateTime.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\bin\Debug\net8.0\Ex_DateTime.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\bin\Debug\net8.0\Ex_DateTime.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\bin\Debug\net8.0\Ex_DateTime.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\bin\Debug\net8.0\Ex_DateTime.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\refint\Ex_DateTime.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\Ex_DateTime.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_DateTime\Ex_DateTime\obj\Debug\net8.0\ref\Ex_DateTime.dll
