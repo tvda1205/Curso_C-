@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\bin\Debug\net8.0\Ex_Enum.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\bin\Debug\net8.0\Ex_Enum.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\bin\Debug\net8.0\Ex_Enum.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\bin\Debug\net8.0\Ex_Enum.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\bin\Debug\net8.0\Ex_Enum.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\refint\Ex_Enum.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\Ex_Enum.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Enum\Ex_Enum\obj\Debug\net8.0\ref\Ex_Enum.dll

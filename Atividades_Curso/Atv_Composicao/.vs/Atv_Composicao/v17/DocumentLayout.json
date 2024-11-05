@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\atv_composicao\\atv_composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|solutionrelative:atv_composicao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\atv_composicao\\atv_composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|solutionrelative:atv_composicao\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\atv_composicao\\atv_composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|solutionrelative:atv_composicao\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\atv_composicao\\atv_composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|solutionrelative:atv_composicao\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\atividades_curso\\atv_composicao\\atv_composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92BAB7B-5A4A-41BC-A583-22F809BEA5B4}|Atv_Composicao\\Atv_Composicao.csproj|solutionrelative:atv_composicao\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "Atv_Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "Atv_Composicao\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:02:00.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "Atv_Composicao\\Entities\\Worker.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Worker.cs",
+              "RelativeToolTip": "Atv_Composicao\\Entities\\Worker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T21:00:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "Atv_Composicao\\Entities\\HourContract.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\HourContract.cs",
+              "RelativeToolTip": "Atv_Composicao\\Entities\\HourContract.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA2wBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:48:30.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "Atv_Composicao\\Entities\\Department.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Entities\\Department.cs",
+              "RelativeToolTip": "Atv_Composicao\\Entities\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:42:45.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Program.cs",
+              "RelativeDocumentMoniker": "Atv_Composicao\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Atividades_Curso\\Atv_Composicao\\Atv_Composicao\\Program.cs",
+              "RelativeToolTip": "Atv_Composicao\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwC8AAACNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:13:12.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

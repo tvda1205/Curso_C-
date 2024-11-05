@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\bin\Debug\net8.0\Atv_Delegate.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\bin\Debug\net8.0\Atv_Delegate.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\bin\Debug\net8.0\Atv_Delegate.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\bin\Debug\net8.0\Atv_Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\bin\Debug\net8.0\Atv_Delegate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\refint\Atv_Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\Atv_Delegate.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Atividades_Curso\Atv_Delegate\Atv_Delegate\obj\Debug\net8.0\ref\Atv_Delegate.dll

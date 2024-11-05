@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\bin\Debug\net8.0\Ex_Section9.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\bin\Debug\net8.0\Ex_Section9.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\bin\Debug\net8.0\Ex_Section9.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\bin\Debug\net8.0\Ex_Section9.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\bin\Debug\net8.0\Ex_Section9.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\refint\Ex_Section9.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\Ex_Section9.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_Heranca\Ex_Heranca\obj\Debug\net8.0\ref\Ex_Section9.dll

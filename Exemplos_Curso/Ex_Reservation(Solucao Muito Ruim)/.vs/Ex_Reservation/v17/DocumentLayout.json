@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Ex_Reservation(Solucao Muito Ruim)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC475DE7-EF52-4625-925B-E6A5C8CBD81D}|Ex_Reservation\\Ex_Reservation.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\ex_reservation(solucao muito ruim)\\ex_reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC475DE7-EF52-4625-925B-E6A5C8CBD81D}|Ex_Reservation\\Ex_Reservation.csproj|solutionrelative:ex_reservation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC475DE7-EF52-4625-925B-E6A5C8CBD81D}|Ex_Reservation\\Ex_Reservation.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\ex_reservation(solucao muito ruim)\\ex_reservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC475DE7-EF52-4625-925B-E6A5C8CBD81D}|Ex_Reservation\\Ex_Reservation.csproj|solutionrelative:ex_reservation\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Ex_Reservation(Solucao Muito Ruim)\\Ex_Reservation\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Ex_Reservation\\Entities\\Reservation.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Ex_Reservation(Solucao Muito Ruim)\\Ex_Reservation\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Ex_Reservation\\Entities\\Reservation.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAiwDIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:38:34.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Ex_Reservation(Solucao Muito Ruim)\\Ex_Reservation\\Program.cs",
+              "RelativeDocumentMoniker": "Ex_Reservation\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\Ex_Reservation(Solucao Muito Ruim)\\Ex_Reservation\\Program.cs",
+              "RelativeToolTip": "Ex_Reservation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:37:03.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

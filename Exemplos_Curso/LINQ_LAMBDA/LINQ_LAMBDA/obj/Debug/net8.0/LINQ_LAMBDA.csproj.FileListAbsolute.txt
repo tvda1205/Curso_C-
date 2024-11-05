@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\bin\Debug\net8.0\LINQ_LAMBDA.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\bin\Debug\net8.0\LINQ_LAMBDA.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\bin\Debug\net8.0\LINQ_LAMBDA.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\bin\Debug\net8.0\LINQ_LAMBDA.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\bin\Debug\net8.0\LINQ_LAMBDA.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\refint\LINQ_LAMBDA.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\LINQ_LAMBDA.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_LAMBDA\LINQ_LAMBDA\obj\Debug\net8.0\ref\LINQ_LAMBDA.dll

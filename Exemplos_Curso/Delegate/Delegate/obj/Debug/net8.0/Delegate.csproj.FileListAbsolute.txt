@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Delegate\Delegate\obj\Debug\net8.0\ref\Delegate.dll

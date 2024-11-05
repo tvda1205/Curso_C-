@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\bin\Debug\net8.0\Predicate.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\bin\Debug\net8.0\Predicate.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\bin\Debug\net8.0\Predicate.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\bin\Debug\net8.0\Predicate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\bin\Debug\net8.0\Predicate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\refint\Predicate.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\Predicate.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Predicate\Predicate\obj\Debug\net8.0\ref\Predicate.dll

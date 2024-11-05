@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\bin\Debug\net8.0\Multicast.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\bin\Debug\net8.0\Multicast.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\bin\Debug\net8.0\Multicast.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\bin\Debug\net8.0\Multicast.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\bin\Debug\net8.0\Multicast.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\refint\Multicast.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\Multicast.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Multicast\Multicast\obj\Debug\net8.0\ref\Multicast.dll

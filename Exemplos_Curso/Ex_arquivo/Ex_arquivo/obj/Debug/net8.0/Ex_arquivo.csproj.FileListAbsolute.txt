@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\bin\Debug\net8.0\Ex_arquivo.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\bin\Debug\net8.0\Ex_arquivo.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\bin\Debug\net8.0\Ex_arquivo.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\bin\Debug\net8.0\Ex_arquivo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\bin\Debug\net8.0\Ex_arquivo.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\refint\Ex_arquivo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\Ex_arquivo.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\Ex_arquivo\Ex_arquivo\obj\Debug\net8.0\ref\Ex_arquivo.dll

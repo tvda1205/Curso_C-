@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\bin\Debug\net8.0\ExercicioResolvido_Polimorfismo.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\bin\Debug\net8.0\ExercicioResolvido_Polimorfismo.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\bin\Debug\net8.0\ExercicioResolvido_Polimorfismo.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\bin\Debug\net8.0\ExercicioResolvido_Polimorfismo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\bin\Debug\net8.0\ExercicioResolvido_Polimorfismo.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\refint\ExercicioResolvido_Polimorfismo.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ExercicioResolvido_Polimorfismo.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\ExercicioResolvido_Polimorfismo\ExercicioResolvido_Polimorfismo\obj\Debug\net8.0\ref\ExercicioResolvido_Polimorfismo.dll

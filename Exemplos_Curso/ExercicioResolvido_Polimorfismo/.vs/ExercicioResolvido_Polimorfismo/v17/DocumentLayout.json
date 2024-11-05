@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\exercicioresolvido_polimorfismo\\exercicioresolvido_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|solutionrelative:exercicioresolvido_polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\exercicioresolvido_polimorfismo\\exercicioresolvido_polimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|solutionrelative:exercicioresolvido_polimorfismo\\entities\\outsourcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|d:\\users\\thiago ara\u00FAjo\\documents\\projetos\\curso c#\\exemplos_curso\\exercicioresolvido_polimorfismo\\exercicioresolvido_polimorfismo\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75159CFE-D61E-414D-B847-2320EA26DC69}|ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo.csproj|solutionrelative:exercicioresolvido_polimorfismo\\entities\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OutsourcedEmployee.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido_Polimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "RelativeToolTip": "ExercicioResolvido_Polimorfismo\\Entities\\OutsourcedEmployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIAxwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T20:21:42.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Entities\\Employees.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido_Polimorfismo\\Entities\\Employees.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Entities\\Employees.cs",
+              "RelativeToolTip": "ExercicioResolvido_Polimorfismo\\Entities\\Employees.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:12:41.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioResolvido_Polimorfismo\\Program.cs",
+              "ToolTip": "D:\\Users\\Thiago Ara\u00FAjo\\Documents\\Projetos\\Curso C#\\Exemplos_Curso\\ExercicioResolvido_Polimorfismo\\ExercicioResolvido_Polimorfismo\\Program.cs",
+              "RelativeToolTip": "ExercicioResolvido_Polimorfismo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:45:59.118Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

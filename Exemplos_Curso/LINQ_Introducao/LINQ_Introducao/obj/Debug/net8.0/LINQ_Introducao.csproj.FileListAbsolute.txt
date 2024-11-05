@@ -1,0 +1,15 @@
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\bin\Debug\net8.0\LINQ_Introducao.exe
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\bin\Debug\net8.0\LINQ_Introducao.deps.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\bin\Debug\net8.0\LINQ_Introducao.runtimeconfig.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\bin\Debug\net8.0\LINQ_Introducao.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\bin\Debug\net8.0\LINQ_Introducao.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.AssemblyInfoInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.AssemblyInfo.cs
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.csproj.CoreCompileInputs.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.sourcelink.json
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\refint\LINQ_Introducao.dll
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.pdb
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\LINQ_Introducao.genruntimeconfig.cache
+D:\Users\Thiago Araújo\Documents\Projetos\Curso C#\Exemplos_Curso\LINQ_Introducao\LINQ_Introducao\obj\Debug\net8.0\ref\LINQ_Introducao.dll
